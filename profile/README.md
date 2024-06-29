@@ -8,7 +8,7 @@ life with your Sonic Ink! It's a new and exciting way to make your memories last
 <a href="https://apps.apple.com/app/inkstory/id6478854889">
 <img src="../images/app-store-badge.svg" alt="InkStory on AppStore" width="200"/>
 </a>
-
+<br/>
 <a href="#!">
 <img src="../images/google-play-badge.svg" alt="InkStory on Google Play" width="200"/>
 </a>
